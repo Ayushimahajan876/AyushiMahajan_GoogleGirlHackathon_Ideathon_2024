@@ -1,6 +1,6 @@
 # AyushiMahajan_GoogleGirlHackathon_Ideathon_2024
 ## Problem Statement 
-In the face of growing environmental challenges, there is a pressing need to leverage AI technologies to monitor, analyze, and mitigate environmental issues. By harnessing the power of AI, we can gain valuable insights into environmental data, predict and prevent natural disasters, and promote sustainable practices. This will enable us to make informed decisions and take proactive measures to protect our planet for future generations. 
+In the face of growing environmental challenges, there is a pressing need to leverage AI technologies to monitor, analyze, and mitigate environmental issues. By harnessing the power of AI, we can gain valuable insights into environmental data, predict and prevent natural disasters, and promote sustainable practices. This will enable us to make informed decisions and take proactive measures to protect our planet for future generations.  <br>
  Disaster Relief: 
 Enhance disaster relief and response efforts by leveraging satellite imagery during disasters like floods and wildfires, integrating existing geospatial information, and utilizing environmental data for affected regions.
 
