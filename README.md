@@ -14,6 +14,9 @@ Until now,due to lack of wildfire relief management hectares of land have been a
 This initiative is designed to benefit various stakeholders  involved in wildfire management and disaster response in the regions of Uttarakhand,including hospitals, police stations, and NGOs.By implementing this comprehensive approach combining satellite imagery, environmental data analysis, and an integrated relief system, I  aim to enhance the resilience and preparedness of the communities in Uttarakhand against wildfires and facilitate more effective and coordinated disaster response and relief efforts.
 
 ## Local Environment setup
-
+Fork this repo
+Run the command 
+All the data used for training and testing the models (i.e.satellite imagery) is in the folder Disaster prediction.
+Run the jupyter notebook Wildfire_prediction_model.ipynb
 
 
