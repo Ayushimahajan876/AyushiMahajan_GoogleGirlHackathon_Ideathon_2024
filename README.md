@@ -15,7 +15,7 @@ This initiative is designed to benefit various stakeholders  involved in wildfir
 
 ## Local Environment setup
 Fork this repo
-Run the command 
+Run the command gh repo clone Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024
 All the data used for training and testing the models (i.e.satellite imagery) is in the folder Disaster prediction.
 Run the jupyter notebook Wildfire_prediction_model.ipynb
 
