@@ -17,6 +17,6 @@ This initiative is designed to benefit various stakeholders  involved in wildfir
 Fork this repo <br>
 Run the command gh repo clone Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024 <br>
 All the data used for training and testing the models (i.e.satellite imagery) is in the folder Disaster prediction. <br>
-Run the jupyter notebook Wildfire_prediction_model.ipynb <br>
+Run the jupyter notebook Ayushi_Mahajan_Google_Girl_Hackathon_idea.ipynb
 
 
