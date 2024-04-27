@@ -23,6 +23,33 @@ This code uses CNN and takes time to train the model though model is correct.Hen
 * Data Set is provided in document (ideathon document)
 * Run the jupyter notebook Ayushi_Mahajan_Google_Girl_Hackathon_idea.ipynb
 
+## Functional Prototype of Wildfire Relief System
+## Home Page
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/0f88d2a6-b085-4253-9e21-da7f33ba4129)
+
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/292d7e36-0047-4f1b-b32a-923d4dfa01c6)
+
+## Wildfire Prediction and Extent
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/aecb48d4-05f7-4384-9947-d7d00d2fab19)
+
+## Nearby Services 
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/c4755a2c-68c0-4e32-9b95-865bdffaf990)
+
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/ef637d1a-aee5-461f-b467-5f8674b48f48)
+
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/1b417bc4-4f89-42af-9201-0841a8fc3a38)
+
+## Alert Systems
+## Click on Email Id of NGO'S to send alert
+![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/d7ff4ca8-00ae-4d54-ad97-950087c5e5f4)
+
+
+
+
+
+
+
+
 
 
 
