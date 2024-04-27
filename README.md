@@ -19,9 +19,9 @@ This code uses CNN and takes time to train the model though model is correct.Hen
 
 ## Local Environment setup
 * Fork this repo <br>
-Run the command gh repo clone Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024 <br>
-Data Set is provided in document (ideathon document)
-Run the jupyter notebook Ayushi_Mahajan_Google_Girl_Hackathon_idea.ipynb
+* Run the command gh repo clone Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024 <br>
+* Data Set is provided in document (ideathon document)
+* Run the jupyter notebook Ayushi_Mahajan_Google_Girl_Hackathon_idea.ipynb
 
 
 
