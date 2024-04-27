@@ -14,7 +14,9 @@ Until now,due to lack of wildfire relief management hectares of land have been a
 This initiative is designed to benefit various stakeholders  involved in wildfire management and disaster response in the regions of Uttarakhand,including hospitals, police stations, and NGOs.By implementing this comprehensive approach combining satellite imagery, environmental data analysis, and an integrated relief system, I  aim to enhance the resilience and preparedness of the communities in Uttarakhand against wildfires and facilitate more effective and coordinated disaster response and relief efforts.
 
 ## Local Environment setup
-##Disclaimer this code uses CNN and takes time to train the model though model is correct.Hence If given time,I assure I Will be able to implement fully.This is the prototype how the CNN code looks like
+## Disclaimer 
+this code uses CNN and takes time to train the model though model is correct.Hence If given time,I assure I Will be able to implement fully.This is the prototype how the CNN code looks like <br>
+
 Fork this repo <br>
 Run the command gh repo clone Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024 <br>
 Data Set is provided in document (ideathon document)
