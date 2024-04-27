@@ -35,7 +35,11 @@ This code uses CNN and takes time to train the model though model is correct.Hen
 ## Nearby Services 
 ![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/c4755a2c-68c0-4e32-9b95-865bdffaf990)
 
+<br> <br>
+
 ![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/ef637d1a-aee5-461f-b467-5f8674b48f48)
+
+<br>
 
 ![image](https://github.com/Ayushimahajan876/AyushiMahajan_GoogleGirlHackathon_Ideathon_2024/assets/136071554/1b417bc4-4f89-42af-9201-0841a8fc3a38)
 
